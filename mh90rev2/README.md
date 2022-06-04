@@ -1,4 +1,4 @@
-# mh90rev
+# mh90rev2 - 4db bass boost
 See [usage instructions](https://github.com/jaakkopasanen/AutoEq#usage) for more options and info.
 
 ### Parametric EQs
